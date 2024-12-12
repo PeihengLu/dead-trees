@@ -1,1 +1,13 @@
 /dead_tree.egg-info
+/dist
+# common python ignore
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
